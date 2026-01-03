@@ -1,16 +1,23 @@
-## Hi there 👋
+ Hi ,  I’m MercilessOrder 👋
+ ![shadow-of](https://github.com/user-attachments/assets/b7c6aecd-f1e7-4c7c-8f74-e2a590fdf044)
 
-<!--
-**MercilessOrder/MercilessOrder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me:: Discord: MercilessOrder
+--> <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,python" />
+  </a>
+</p>
+<p align="top">
+  <img src="https://komarev.com/ghpvc/?username=MercilessOrder&abbreviated=true&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="MercilessOrder" />
+</p>
+<picture>
+<img src="https://github-readme-stats.vercel.app/api?username=MercilessOrder&show_icons=true&count_private=true&theme=jolly&hide=issues&hide_border=true" />
+<img src="https://media.giphy.com/media/L8A2CLpJJW5d3NR5Tt/giphy.gif" width="22%" />
+
+
+ 👀 Let's connect and collaborate!
+<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
+
