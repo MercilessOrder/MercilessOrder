@@ -1,4 +1,5 @@
  Hi ,  I’m MercilessOrder 👋
+
  ![shadow-of](https://github.com/user-attachments/assets/b7c6aecd-f1e7-4c7c-8f74-e2a590fdf044)
 
 
@@ -15,9 +16,8 @@
 </p>
 <picture>
 <img src="https://github-readme-stats.vercel.app/api?username=MercilessOrder&show_icons=true&count_private=true&theme=jolly&hide=issues&hide_border=true" />
-<img src="https://media.giphy.com/media/L8A2CLpJJW5d3NR5Tt/giphy.gif" width="22%" />
-
+<img src="https://tenor.com/view/shadow-of-war-lord-the-gif-9988147 " width="22%" />
 
  👀 Let's connect and collaborate!
-<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
+
 
